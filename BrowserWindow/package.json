@@ -1,0 +1,9 @@
+{
+    "name": "browser-window",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {},
+    "scripts": {
+        "start": "electron ."
+    }
+}
